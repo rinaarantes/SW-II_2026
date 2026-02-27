@@ -1,5 +1,5 @@
 <?php 
-for ($i=1; $i <= 5; $1++) {
+for ($i=1; $i <= 5; $i++) {
     echo $i;
     echo"<br>"
 }
@@ -20,12 +20,12 @@ foreach ($nomes as $indice => $valor) {
 //}
 
 echo $nomes[0]
-echo "<br>"
+echo "<br>";
 echo $nomes[1]
-echo "<br>"
+echo "<br>";
 echo $nomes[2]
-echo "<br>"
+echo "<br>";
 echo $nomes[3]
-echo "<br>"
+echo "<br>";
 
 ?>
